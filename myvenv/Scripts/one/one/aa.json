@@ -1,0 +1,37 @@
+[
+    { "download_timeout": 180.0, "depth": 0 }
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0}
+][
+{"offset": 1, "download_timeout": 180.0, "depth": 0},
+{"depth": 1, "download_timeout": 180.0},
+{"depth": 2, "download_timeout": 180.0},
+{"depth": 3, "download_timeout": 180.0},
+{"depth": 4, "download_timeout": 180.0},
+{"depth": 5, "download_timeout": 180.0},
+{"depth": 6, "download_timeout": 180.0},
+{"depth": 7, "download_timeout": 180.0},
+{"depth": 8, "download_timeout": 180.0},
+{"depth": 9, "download_timeout": 180.0},
+{"depth": 10, "download_timeout": 180.0},
+{"depth": 11, "download_timeout": 180.0},
+{"depth": 12, "download_timeout": 180.0}
+]
